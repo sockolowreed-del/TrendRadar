@@ -1,8 +1,10 @@
 {
-  "generated_at": "2026-08-17T18:26:28.426853+08:00",
-  "total_titles_processed": 1266,
+  "generated_at": "2026-08-17T20:32:10.447937+08:00",
+  "total_titles_processed": 1426,
   "failed_sources": [
-    "douyin"
+    "baidu",
+    "bilibili-hot-search",
+    "cls-hot"
   ],
   "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
